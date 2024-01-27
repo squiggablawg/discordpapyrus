@@ -2,28 +2,28 @@
 
 @font-face {
     font-family: 'Papyrus';
-    src: url('https://github.com/squiggablawg/discordpapyrus/blob/main/Papyrus%20W01.woff');
+    src: url('https://github.com/squiggablawg/discordpapyrus/raw/main/Papyrus%20W01.woff');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Papyrus';
-	src: url('https://github.com/squiggablawg/discordpapyrus/blob/main/Papyrus%20W01.woff');
+	src: url('https://github.com/squiggablawg/discordpapyrus/raw/main/Papyrus%20W01.woff');
 	font-style: italic;
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Papyrus';
-	src: url('https://github.com/squiggablawg/discordpapyrus/blob/main/Papyrus%20W01.woff');
+	src: url('https://github.com/squiggablawg/discordpapyrus/raw/main/Papyrus%20W01.woff');
 	font-weight: bold;
 	font-style: normal;
 } 
 
 @font-face {
 	font-family: 'Papyrus';
-	src: url('https://github.com/squiggablawg/discordpapyrus/blob/main/Papyrus%20W01.woff');
+	src: url('https://github.com/squiggablawg/discordpapyrus/raw/main/Papyrus%20W01.woff');
 	font-weight: bold;
 	font-style: italic;
 }
